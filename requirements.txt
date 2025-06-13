@@ -1,0 +1,14 @@
+flask>=2.0.0
+flask-cors
+python-dotenv
+nltk
+spacy
+textblob
+scikit-learn
+surprise
+pandas
+numpy
+requests
+python-Levenshtein
+gensim
+tensorflow>=2.0.0  # Optional for deep learning
